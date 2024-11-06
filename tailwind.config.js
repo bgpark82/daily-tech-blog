@@ -21,6 +21,21 @@ module.exports = {
   },
   plugins: [daisyui],
   daisyui: {
-    themes: ["light"], // Enable light and dark themes
+    themes: [
+      {
+        customtheme: {
+          "primary": "#06AC78",          // Primary button color (light green)
+          "secondary": "#ffb347",        // Secondary button color (orange)
+          "accent": "#2d3748",           // Accent color (dark background)
+          "neutral": "#3d4451",          // Neutral color (default dark gray)
+          "base-100": "#ffffff",         // Background color for light theme
+          "base-200": "#f7f8fa",         // Lighter background for light theme elements
+          "info": "#3ABFF8",             // Info color
+          "success": "#36D399",          // Success color
+          "warning": "#FBBD23",          // Warning color
+          "error": "#F87272",
+        }
+      },
+      "light"], // Enable light and dark themes
   },
 };
