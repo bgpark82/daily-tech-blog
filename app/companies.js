@@ -70,29 +70,84 @@ export const companies = [
         "logo": "https://upload.wikimedia.org/wikipedia/commons/9/91/HubSpot_Logo.png"
     },
     {
-        "company": "Zynga Engineering",
-        "link": "https://www.zynga.com/blog/",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Zynga_logo.svg"
-    },
-    {
         "company": "Yelp Engineering Blog",
         "link": "https://engineeringblog.yelp.com/",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/5/58/Yelp_Logo.svg"
     },
     {
-        "company": "Heroku Engineering Blog",
-        "link": "https://blog.heroku.com/engineering",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Heroku_logo.svg"
+        "company": "IBM Research Blog",
+        "link": "https://www.ibm.com/blogs/research/",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg"
     },
     {
-        "company": "MongoDB Engineering Blog",
-        "link": "https://www.mongodb.com/developer/",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg"
+        "company": "Oracle Engineering Blog",
+        "link": "https://blogs.oracle.com/",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg"
     },
     {
-        "company": "Capital One",
-        "link": "https://www.capitalone.com/tech/",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/7/76/Capital_One_logo.svg"
+        "company": "Intel Developer Zone",
+        "link": "https://software.intel.com/content/www/us/en/develop/blog.html",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Intel_logo_%282020%29.png"
+    },
+    {
+        "company": "Salesforce Engineering Blog",
+        "link": "https://engineering.salesforce.com/",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/2/27/Salesforce.com_logo.svg"
+    },
+    {
+        "company": "Stripe Engineering Blog",
+        "link": "https://stripe.com/blog",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Stripe_Logo%2C_revised_2016.svg"
+    },
+    {
+        "company": "Twilio Engineering Blog",
+        "link": "https://www.twilio.com/blog/engineering",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/2/27/Twilio-logo-red.svg"
+    },
+    {
+        "company": "Pinterest Engineering Blog",
+        "link": "https://medium.com/pinterest-engineering",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/0/08/Pinterest-logo.png"
+    },
+    {
+        "company": "PayPal Engineering Blog",
+        "link": "https://medium.com/paypal-tech",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e7/PayPal_logo.svg"
+    },
+    {
+        "company": "Square Engineering Blog",
+        "link": "https://developer.squareup.com/blog/",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/3/30/Square%2C_Inc._Logo.png"
+    },
+    {
+        "company": "Dropbox Engineering Blog",
+        "link": "https://dropbox.tech/",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Dropbox_logo_2017.svg"
+    },
+    {
+        "company": "Atlassian Engineering Blog",
+        "link": "https://www.atlassian.com/engineering",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Atlassian_logo.svg"
+    },
+    {
+        "company": "Bloomberg Engineering",
+        "link": "https://www.techatbloomberg.com/blog/",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/3/34/Bloomberg_logo.svg"
+    },
+    {
+        "company": "Spotify Engineering Blog",
+        "link": "https://engineering.atspotify.com/",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg"
+    },
+    {
+        "company": "Red Hat Developer Blog",
+        "link": "https://developers.redhat.com/blog",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Red_Hat_logo.svg"
+    },
+    {
+        "company": "Adobe Tech Blog",
+        "link": "https://adobetech.medium.com/",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Adobe_Corporate_Logo.png"
     },
     {
         "company": "Disney Streaming",
@@ -100,63 +155,8 @@ export const companies = [
         "logo": "https://upload.wikimedia.org/wikipedia/en/4/4a/Disney_Streaming_Logo.svg"
     },
     {
-        "company": "Zomato",
-        "link": "https://www.zomato.com/blog/engineering",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/9/94/Zomato_logo.svg"
-    },
-    {
-        "company": "Swiggy",
-        "link": "https://bytes.swiggy.com/",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/12/Swiggy_logo.svg"
-    },
-    {
-        "company": "ASOS Tech Blog",
-        "link": "https://medium.com/asos-techblog",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Asos_logo.svg"
-    },
-    {
-        "company": "Hotstar",
-        "link": "https://tech.hotstar.com/",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/Disney_Hotstar_logo.svg/1024px-Disney_Hotstar_logo.svg.png"
-    },
-    {
-        "company": "Indeed Engineering Blog",
-        "link": "https://engineering.indeedblog.com/",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/6/67/Indeed_logo.png"
-    },
-    {
-        "company": "Acast Tech",
-        "link": "https://acast.com/engineering",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Acast_Logo.svg"
-    },
-    {
-        "company": "Auto Trader Engineering Blog",
-        "link": "https://engineering.autotrader.co.uk/",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Auto_Trader_Logo_2018.png"
-    },
-    {
-        "company": "Engineering at Depop",
-        "link": "https://engineering.depop.com/",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Depop_logo.svg"
-    },
-    {
-        "company": "Gusto Engineering Blog",
-        "link": "https://engineering.gusto.com/",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/3/34/Gusto_Logo.png"
-    },
-    {
-        "company": "Engineering at Birdie",
-        "link": "https://www.birdie.care/careers/blog/engineering",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/9/98/Birdie_company_logo.png"
-    },
-    {
-        "company": "SourceDiving (Cookpad's Engineering Blog)",
-        "link": "https://sourcediving.com/",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Cookpad_logo.svg"
-    },
-    {
-        "company": "Forethought Engineering",
-        "link": "https://blog.forethought.ai/tag/engineering/",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/7/72/Forethought_Logo.png"
+        "company": "MongoDB Engineering Blog",
+        "link": "https://www.mongodb.com/developer/",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg"
     }
 ]
